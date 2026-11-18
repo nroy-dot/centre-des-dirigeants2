@@ -1,0 +1,4 @@
+# Netlify publie directement le dossier « site ». Aucune compilation n'est requise.
+[build]
+  publish = "site"
+  command = ""
